@@ -56,3 +56,5 @@
 
  将此段命令存储到redis 服务中
  set admin "e0a2456e0943997d816485a5c057b4c7"
+ 
+ .zip文件为code
